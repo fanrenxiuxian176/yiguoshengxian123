@@ -1,0 +1,154 @@
+a {
+  text-decoration: none;
+  color: #333; }
+
+.header {
+  border: none;
+  background: #e0e0e0;
+  height: 70px;
+  position: relative; }
+
+.header .wrap {
+  padding: 15px 0 5px 0;
+  width: 1200px;
+  margin: 0 auto; }
+
+.h-tit {
+  left: 240px;
+  font-size: 28px;
+  color: #64b22a;
+  position: absolute;
+  left: 350px;
+  top: 16px; }
+
+.right {
+  position: absolute;
+  top: 107px;
+  right: 183px;
+  font: 14px/1 "Microsoft YaHei";
+  text-align: right; }
+
+.tab-pend {
+  border: 1px solid #c4dfb1;
+  background-color: #fff;
+  width: 1200px;
+  height: 634px;
+  margin: 0 auto;
+  margin-top: 80px;
+  position: relative; }
+
+.rimg {
+  position: absolute;
+  height: 340px;
+  width: 330px;
+  left: 780px;
+  top: 80px;
+  text-align: center;
+  padding-top: 50px;
+  font: 14px/56px "Microsoft YaHei"; }
+
+.tab-pend .f1 {
+  float: left;
+  font-size: 12px;
+  width: 765px;
+  height: 550px;
+  margin-top: 50px; }
+
+.f1 .field-name {
+  display: inline-block;
+  width: 220px;
+  text-align: right;
+  padding-right: 20px; }
+
+.tab-pend p {
+  margin-bottom: 29px; }
+
+#verficode_tab1 {
+  border: 1px solid #c1c1c1;
+  background-color: #fff;
+  height: 38px;
+  vertical-align: middle;
+  padding-left: 14px;
+  width: 290px;
+  font: 14px/38px "Microsoft YaHei";
+  margin-right: 20px; }
+
+#imgcode {
+  height: 40px;
+  position: absolute; }
+
+.gray {
+  line-height: 40px;
+  color: #666666;
+  font-size: 12px;
+  float: right;
+  padding-right: 210px;
+  line-height: 40px; }
+
+#Phone_Mobile {
+  margin-right: 20px;
+  border: 1px solid #c1c1c1;
+  background-color: #fff;
+  height: 38px;
+  vertical-align: middle;
+  padding-left: 14px;
+  width: 290px;
+  font: 14px/38px "Microsoft YaHei"; }
+
+#Phone_VerifyCode {
+  border: 1px solid #c1c1c1;
+  background-color: #fff;
+  height: 38px;
+  vertical-align: middle;
+  padding-left: 14px;
+  width: 147px;
+  font: 14px/38px "Microsoft YaHei";
+  margin-right: 20px; }
+
+.btn-yzm {
+  display: inline-block;
+  width: 121px;
+  height: 40px;
+  text-align: center;
+  line-height: 38px;
+  background-color: #f7f7f7;
+  border: 1px solid #c1c1c1;
+  color: #64b22a;
+  margin-right: 22px;
+  font-size: 100%; }
+
+#Phone_Password {
+  border: 1px solid #c1c1c1;
+  background-color: #fff;
+  height: 38px;
+  vertical-align: middle;
+  padding-left: 14px;
+  width: 290px;
+  font: 14px/38px "Microsoft YaHei"; }
+
+#Phone_ConfimPassword {
+  border: 1px solid #c1c1c1;
+  background-color: #fff;
+  height: 38px;
+  vertical-align: middle;
+  padding-left: 14px;
+  width: 290px;
+  font: 14px/38px "Microsoft YaHei"; }
+
+#PhoneReg {
+  display: inline-block;
+  height: 50px;
+  text-align: center;
+  color: #fff;
+  font: 18px/50px "Microsoft YaHei";
+  width: 306px;
+  background: #008842; }
+
+#Phone_AtCode {
+  border: 1px solid #c1c1c1;
+  background-color: #fff;
+  height: 38px;
+  vertical-align: middle;
+  padding-left: 14px;
+  width: 290px;
+  font: 14px/38px "Microsoft YaHei"; }

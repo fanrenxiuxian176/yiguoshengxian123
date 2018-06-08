@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#sitnav {
+    z-index: 99;
+    position: relative;
+    width: auto;
+    height: 30px;
+    background: #f7f9f8;
+}
+#sitnav .fl li {
+    float: left;
+    line-height: 30px;
+    margin-right: 10px;
+}
